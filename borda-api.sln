@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "borda-api", "borda-api.csproj", "{64E21CD3-0897-4612-9D76-112C5705E5B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "borda-api.api", "borda-api.api\borda-api.api.csproj", "{3852E96A-77D3-46F2-862F-4453AE3FF32C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64E21CD3-0897-4612-9D76-112C5705E5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64E21CD3-0897-4612-9D76-112C5705E5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64E21CD3-0897-4612-9D76-112C5705E5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64E21CD3-0897-4612-9D76-112C5705E5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3852E96A-77D3-46F2-862F-4453AE3FF32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3852E96A-77D3-46F2-862F-4453AE3FF32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3852E96A-77D3-46F2-862F-4453AE3FF32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3852E96A-77D3-46F2-862F-4453AE3FF32C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0217B07D-07D2-4650-B1C1-BAC2882CF6DB}
+		SolutionGuid = {69824363-69EB-47F2-988D-EAA53F7E5C27}
 	EndGlobalSection
 EndGlobal

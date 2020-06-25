@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>borda_api</RootNamespace>
+    <RootNamespace>borda_api.api</RootNamespace>
   </PropertyGroup>
 
 </Project>
