@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "borda-api.api", "borda-api.api\borda-api.api.csproj", "{3852E96A-77D3-46F2-862F-4453AE3FF32C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "borda.api", "borda-api.api\borda.api.csproj", "{3852E96A-77D3-46F2-862F-4453AE3FF32C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "borda-api.Application", "borda-api.Application\borda-api.Application.csproj", "{A197942E-E954-4C1C-B4A3-FBDB3225265A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "borda.Application", "borda-api.Application\borda.Application.csproj", "{A197942E-E954-4C1C-B4A3-FBDB3225265A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "borda-api.Data", "borda-api.Data\borda-api.Data.csproj", "{A820DAAF-271B-4EDC-A70F-062C195A48BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "borda.Data", "borda-api.Data\borda.Data.csproj", "{A820DAAF-271B-4EDC-A70F-062C195A48BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,4 +5,9 @@
     <RootNamespace>borda_api.api</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\borda-api.Application\borda.Application.csproj" />
+    <ProjectReference Include="..\borda-api.Data\borda.Data.csproj" />
+  </ItemGroup>
+
 </Project>
